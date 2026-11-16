@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.conda/
+env/
+*.mat
+*.h5
+*.hdf5
+*.keras
+/data/*
+!/data/.gitkeep
+/kan-models/*
+!/kan-models/.gitkeep
